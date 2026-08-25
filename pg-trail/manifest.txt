@@ -1,0 +1,45 @@
+post01a.jpg <- W01 Mon - Yard Departure.jpg
+post01b.jpg <- W01 Tue - Why PG Pilings.jpg
+post02a.jpg <- W01 Thu - Yellowhead Snowstorm.jpg
+post02b.jpg <- W01 Fri - Prince George Arrival FINAL.jpg
+post03a.jpg <- W02 Mon - Leaving PG.jpg
+post03b.jpg <- W02 Tue - Mining Country.jpg
+post04a.jpg <- W02 Thu - Trading Post FINAL.jpg
+post04b.jpg <- W02 Fri - Kamloops Arrival FINAL.jpg
+post05a.jpg <- W03 Mon - Hwy 40 North.jpg
+post05b.jpg <- W03 Tue - Energy Country.jpg
+post06a.jpg <- W03 Thu - Grizzly Raid.jpg
+post06b.jpg <- W03 Fri - Grande Prairie Arrival FINAL.jpg
+post07a.jpg <- W04 Mon - Hammer Practice FINAL.jpg
+post07b.jpg <- W04 Tue - Solar Fields.jpg
+post08a.jpg <- W04 Thu - Bandits.jpg
+post08b.jpg <- W04 Fri - Ponoka Arrival FINAL.jpg
+post09a.jpg <- W05 Mon - The Road Home v2.jpg
+post09b.jpg <- W05 Tue - The Yard.jpg
+post10a.jpg <- W05 Thu - Put To Work v2.jpg
+post10b.jpg <- W05 Fri - Homecoming Sign FINAL.jpg
+post11a.jpg <- W06 Mon - Skyline Ahead.jpg
+post11b.jpg <- W06 Tue - Big City Steel.jpg
+post12a.jpg <- W06 Thu - Big City Prices.jpg
+post12b.jpg <- W06 Fri - Calgary Sign FINAL.jpg
+post13a.jpg <- W07 Mon - The Horizon v2.jpg
+post13b.jpg <- W07 Tue - Potash Country.jpg
+post14a.jpg <- W07 Thu - The Sailboat.jpg
+post14b.jpg <- W07 Fri - Saskatoon Arrival FINAL.jpg
+post15a.jpg <- W08 Mon - The Straight Road.jpg
+post15b.jpg <- W08 Tue - Queen City Builds.jpg
+post16a.jpg <- W08 Thu - The Grain Train v2.jpg
+post16b.jpg <- W08 Fri - Regina Arrival FINAL.jpg
+post17a.jpg <- W09 Mon - Southeast Backroads v2.jpg
+post17b.jpg <- W09 Tue - Heartland.jpg
+post18a.jpg <- W09 Thu - The Mosquito.jpg
+post18b.jpg <- W09 Fri - Alameda Arrival FINAL.jpg
+post19a.jpg <- W10 Mon - Road To Estevan.jpg
+post19b.jpg <- W10 Tue - Energy City.jpg
+post20a.jpg <- W10 Thu - The Toll Gate.jpg
+post20b.jpg <- W10 Fri - Estevan Game Day FINAL.jpg
+post21a.jpg <- W11 Mon - The Crossroads v2.jpg
+post21b.jpg <- W11 Tue - The Long Road South.jpg
+post22a.jpg <- W11 Thu - The Border Bridge.jpg
+post22b.jpg <- W11 Fri - HOUSTON FINALE FINAL.jpg
+post22c.jpg <- FINALE - The Homestead FINAL.jpg
